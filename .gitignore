@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Vivado cache
+*.cache
+*.log
+**/*.sim/**
+*.xpr
+*.runs
+*.jou
